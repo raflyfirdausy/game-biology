@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EEF7F6</color>
+    <color name="colorPrimaryDark">#BDFFF7</color>
+    <!--<color name="colorAccent">#D81B60</color>-->
+    <color name="colorAccent">#90EEE3</color>
+
+    <color name="colorBlue">#8BD0E6</color>
+    <color name="colorBlueDark">#64AEC5</color>
+
+    <color name="colorGreen">#20FF2B</color>
+    <color name="colorGreenDark">#18DD43</color>
+
+    <color name="colorRed">#25FF2020</color>
+    <color name="colorRedDark">#DD1818</color>
+
+    <color name="colorNavigationIcon">#dae9f6</color>
+    <color name="colorNavigationText">#ffffff</color>
+
+    <!--<color name="colorPrimary">#ffd520</color>-->
+    <!--<color name="colorPrimaryDark">#f2c815</color>-->
+    <!--<color name="colorAccent">#f2c815</color>-->
+
+    <color name="oren">#F79A48</color>
+    <color name="oren_dark">#DA8236</color>
+    <color name="oren_accent">#FFE4D3</color>
+
+    <color name="colortext">#100b20</color>
+    <color name="black">#000000</color>
+    <color name="colorhint">#D8D8D8</color>
+    <color name="white">#ffffff</color>
+
+    <color name="red">#DB3434</color>
+    <color name="red_dark">#AF3D3D</color>
+    <color name="red_accent">#EB5F5F</color>
+
+    <color name="background">#dddddd</color>
+    <color name="gray_muda">#E0E0E0</color>
+    <color name="gray_muda_banget">#F5F5F5</color>
+    <color name="gray_tua">#B6B6B6</color>
+    <color name="gray_tua_banget">#5E5E5E</color>
+
+    <color name="greenMuda">#49B971</color>
+    <color name="green">#3ACF3C</color>
+    <color name="greenDark">#0E5A29</color>
+    <color name="black_muda">#2B2B2B</color>
+    <color name="black_tua_hehe">#333333</color>
+
+    <color name="ungu_muda">#B966A4</color>
+
+</resources>
